@@ -15,4 +15,3 @@ Desplegar una solución interactiva de consulta.
 
 Documentar el proceso y utilizar control de versiones.
 
-Tecnologías recomendadas: Python, SQL, Git, Power BI/Tableau/Streamlit, FastAPI, Docker, entre otras.
